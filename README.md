@@ -175,7 +175,7 @@ If you accidentially schedule for a class and need to remove it from your schedu
 
 ![](img/19_athena_schedule_remove.png)
 
-### Time Conflictss
+### Time Conflicts
 
 If you attempt to schedule for a class that conflicts with another class on your schedule,  you will recieve an error
 message and will be unable to register for the class:
@@ -210,7 +210,7 @@ Click on your user name in the top right to access your profile page.
 
 If you cannot find certain courses in the scheduler, you may have to add an institution. From your profile, expand
 the `Manage Institutions` tab. You can unenroll from any institutions here, and search for new institutions to enroll
-with. To see more details about an institution, cllick the `Info` icon:
+with. To see more details about an institution, click the `Info` icon:
 
 ![](img/21_athena_profile_institutions.png)
 

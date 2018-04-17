@@ -2,6 +2,7 @@ version: '3'
 services:
   athena:
     image: athenascheduler/athena
+    restart: unless-stopped
     ports:
       - "5000:5000"
     environment:
@@ -12,3 +13,4 @@ services:
       - db
   db:
     image: athenascheduler/db
+    restart: unless-stopped

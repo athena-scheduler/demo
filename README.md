@@ -202,5 +202,32 @@ on your schedule as complete and give you a blank schedule:
 
 ![](img/20_athena_schedule_complete.png)
 
-## Managing Completed Courses
+## Managing Your Profile
 
+Click on your user name in the top right to access your profile page.
+
+### Manage Institutions
+
+If you cannot find certain courses in the scheduler, you may have to add an institution. From your profile, expand
+the `Manage Institutions` tab. You can unenroll from any institutions here, and search for new institutions to enroll
+with. To see more details about an institution, cllick the `Info` icon:
+
+![](img/21_athena_profile_institutions.png)
+
+### Manage Programs
+
+You can also manage what programs you are enrolled in:
+
+![](img/22_athena_profile_programs.png)
+
+### Manage Completed Courses
+
+From your profile, you can manage what courses you have already completed. This is useful if you are joining
+an institution or starting to use athena partway through your educational career. The search box will filter
+your currently completed courses:
+
+![](img/23_athena_profile_completed.png)
+
+To mark a course as complete, click the add button on the right and use the search box to find the course:
+
+![](img/24_athena_profile_complete_add.png)
